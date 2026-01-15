@@ -1,0 +1,8 @@
+{
+  "name": "Lovense Event Plaza Dashboard",
+  "description": "A sophisticated event management and analytics dashboard for models and studios, featuring event tracking, financial insights, and studio-wide management tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
